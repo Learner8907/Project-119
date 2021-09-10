@@ -1,0 +1,33 @@
+.head{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px gray;
+    width: 100%;
+    margin: 0px;
+    background-color: gray;
+}
+.headDiv{
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    float: none;
+    padding: 10px;
+
+}
+.headDiv_2{
+    font-size: 18px;
+    background-color: #FD3D55;
+    color: white;
+}
+.result_tags{
+    box-shadow: 5px 5px 5px gray;
+    background-color: #FD3D55;
+    color: white;
+
+} 
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 150px;
+}
